@@ -56,7 +56,7 @@ export default function Home() {
           <div className="max-w-4xl mx-auto text-center space-y-6">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-800">PIRLS platformasiga xush kelibsiz!</h1>
 
-            <p className="text-lg text-gray-600">Buxoro viloyati pedagogik mahorat markazi</p>
+            <p className="text-lg text-gray-600">Xorazm viloyati pedagogik mahorat markazi</p>
 
             {!user ? (
               // Logged out: show original hero + login/register
